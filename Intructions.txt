@@ -1,0 +1,11 @@
+Clone/ push using Subject-16 as usrname and the token in sticky notes(make it fatter) as password
+
+Steps
+git init                  :: Initialise the git process
+git add -A(or file name)  :: to add file(s) to the staging
+touch. gitignore          :: to add gitignore(ignores files from staging/commmiting) can be edited with file names
+git commit -m "msg here"  :: to commit to branch
+
+More on Branching 
+
+
