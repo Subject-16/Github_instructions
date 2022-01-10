@@ -5,6 +5,7 @@ git init                  :: Initialise the git process
 git add -A(or file name)  :: to add file(s) to the staging
 touch. gitignore          :: to add gitignore(ignores files from staging/commmiting) can be edited with file names
 git commit -m "msg here"  :: to commit to branch
+git push -u origin master :: to push commit to added origin
 
 More on Branching 
 
